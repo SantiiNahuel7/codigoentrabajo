@@ -190,6 +190,12 @@ main {
     padding: 1em;
 }
 
+.logo-check{
+    display: flex;
+    width: 45%;
+    height: 50%;
+}
+
 .formulario{
     display: flex;
     flex-direction: column;
@@ -201,18 +207,6 @@ main {
     max-width: 350px;
 }
 
-.creacion-input input {
-    width: 100%;
-    padding: 15px 15px 15px 50px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    font-size: 1em;
-    outline: none;
-    transition: border-color 0.3s ease;
-}
-.creacion-input input:focus{
-    border-color: #0072ff;
-}
 
 #boton-cuenta{
     width: 100%;

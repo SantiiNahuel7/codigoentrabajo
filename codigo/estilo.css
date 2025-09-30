@@ -1,4 +1,4 @@
-* {
+ * {
 
     margin: 0;
     padding: 0;
@@ -274,14 +274,6 @@ main {
 .grupo-input{
     position: relative;
     margin-bottom: 20px;
-}
-
-.grupo-input i{
-    position: absolute;
-    left: 15px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #aaa;
 }
 
 .grupo-input input {
